@@ -27,8 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-ValidFlix é um projeto de listagem de filmes consumindo a api de dados <a href="https://developers.themoviedb.org/">The Movies DB</a>
-![Project Preview](validFlix.gif) <br>
+ValidFlix é um projeto de listagem de filmes consumindo a api de dados <a href="https://developers.themoviedb.org/">The Movies DB</a> <br>
+![Project Preview](validFlix.png) <br>
 
 ## Estrutura de Pastas
 
