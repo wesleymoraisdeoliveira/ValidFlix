@@ -105,7 +105,7 @@ export default function Home() {
               }
             </Mosaic>
             <Row>
-                <Title id="populares">Mais Populares</Title>
+                <Title id="populares">Populares</Title>
             </Row>
             {
               isLoading ?
@@ -120,7 +120,7 @@ export default function Home() {
             }
             <Breathe />
             <Row>
-                <Title id="recemadicionados">Recém adicionados</Title>
+                <Title id="recemadicionados">Lançamentos</Title>
             </Row>
             {
               isLoading ?

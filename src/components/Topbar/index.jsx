@@ -24,7 +24,7 @@ export default function Topbar({ theme, toggleTheme }) {
                         Populares
                     </AnchorLink>
                     <AnchorLink href="#recemadicionados">
-                        Recém Adicionados
+                        Lançamentos
                     </AnchorLink>
                 </Menu>
             </Container>
